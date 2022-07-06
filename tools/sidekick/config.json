@@ -1,0 +1,12 @@
+{
+  "project": "DX Products Newsletter",
+  "host": "helix-campaign.experience-adobe.com",
+  "plugins": [
+    {
+      "id": "generate-email-template",
+      "title": "Generate Email Template",
+      "event": "generate-email-template",
+      "environments": [ "prod" ]
+    }
+  ]
+}
